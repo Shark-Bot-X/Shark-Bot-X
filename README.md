@@ -6,10 +6,11 @@ Profile README for Shark-Bot-X
   <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sneh+Kansagara+👋;AI%2FML+Enthusiast+%7C+Developer+%7C+Lifelong+Learner;I+build+useful+things+with+data+and+code" alt="Typing SVG"/>
 </p>
 
+
 <p align="center">
   <a href="https://github.com/Shark-Bot-X?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Shark-Bot-X?style=for-the-badge"></a>
   <a href="https://github.com/Shark-Bot-X"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Shark-Bot-X&style=for-the-badge"></a>
-  <a href="mailto:snehkansagara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snehkansagara7%40gmail.com-informational?style=for-the-badge"></a>
+  <a href="mailto:snehkansagara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snehkansagara%40gmail.com-informational?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/sneh-kansagara-b61362312/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
@@ -48,7 +49,7 @@ Profile README for Shark-Bot-X
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,fastapi,flask,mysql,git,github,docker,vscode,figma&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,fastapi,flask,mysql,git,github,docker,vscode" />
 </p>
 
 ---
@@ -68,15 +69,14 @@ Profile README for Shark-Bot-X
 ## 🐍 Contribution Snake (animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shark-Bot-X/Shark-Bot-X/output/github-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Shark-Bot-X/Shark-Bot-X/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 
 ---
 
 ## 🏆 Trophies & Badges
 
-<p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shark-Bot-X&theme=flat&margin-w=5" />
 </p>
 

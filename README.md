@@ -40,26 +40,6 @@ Profile README for Shark-Bot-X
       </ul>
       <a href="https://github.com/Shark-Bot-X/Fingerprint-verification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Fingerprint-verification-system" /></a>
     </td>
-    <td width="50%">
-      <h3><a href="https://github.com/Shark-Bot-X/Todo-Kotlin-App">Kotlin To-Do App</a></h3>
-      <p>Task manager with calendar, reminders, and dark mode.</p>
-      <ul>
-        <li>⚙️ Task filtering & notifications</li>
-        <li>🧪 Tech: Kotlin, Android</li>
-      </ul>
-      <a href="https://github.com/Shark-Bot-X/Todo-Kotlin-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Todo-Kotlin-App" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/Shark-Bot-X/Fast-API-Deployment">FastAPI Deployment</a></h3>
-      <p>Production-ready FastAPI app setup with Docker and CI/CD.</p>
-      <ul>
-        <li>✨ Automated deployment pipeline</li>
-        <li>🧪 Tech: Python, FastAPI, Docker</li>
-      </ul>
-      <a href="https://github.com/Shark-Bot-X/Fast-API-Deployment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Fast-API-Deployment" /></a>
-    </td>
   </tr>
 </table>
 

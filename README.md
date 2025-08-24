@@ -2,9 +2,7 @@
 Profile README for Shark-Bot-X
 -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sneh+Kansagara+👋;AI%2FML+Enthusiast+%7C+Developer+%7C+Lifelong+Learner;I+build+useful+things+with+data+and+code" alt="Typing SVG"/>
-</p>
+## Hi I am SHARK 
 
 
 <p align="center">
@@ -64,23 +62,7 @@ Profile README for Shark-Bot-X
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shark-Bot-X&layout=compact&langs_count=10" />
 </p>
 
----
 
-## 🐍 Contribution Snake (animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shark-Bot-X/Shark-Bot-X/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-## 🏆 Trophies & Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shark-Bot-X&theme=flat&margin-w=5" />
-</p>
-
----
 
 ## 📬 Connect With Me
 

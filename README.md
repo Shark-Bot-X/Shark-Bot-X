@@ -9,8 +9,8 @@ Profile README for Shark-Bot-X
 <p align="center">
   <a href="https://github.com/Shark-Bot-X?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Shark-Bot-X?style=for-the-badge"></a>
   <a href="https://github.com/Shark-Bot-X"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Shark-Bot-X&style=for-the-badge"></a>
-  <a href="mailto:snehkansagara7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snehkansagara7%40gmail.com-informational?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/sneh-kansagara/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:snehkansagara@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-snehkansagara7%40gmail.com-informational?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/sneh-kansagara-b61362312/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
@@ -30,13 +30,15 @@ Profile README for Shark-Bot-X
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/Shark-Bot-X/Fast-API-Deployment">FastAPI Deployment</a></h3>
-      <p>Production-ready FastAPI app setup with Docker and CI/CD.</p>
+      <h3><a href="https://github.com/Shark-Bot-X/Fingerprint-verification-system">🧬 Fingerprint Verification System</a></h3>
+      <p>A production-ready biometric authentication system built with Flask + TensorFlow using a Siamese Neural Network for fingerprint similarity.</p>
       <ul>
-        <li>✨ Automated deployment pipeline</li>
-        <li>🧪 Tech: Python, FastAPI, Docker</li>
+        <li>🧠 Model: Siamese CNN (contrastive loss, Euclidean distance)</li>
+        <li>🎛️ Preprocessing: Rembg, OpenCV, CLAHE, Otsu thresholding</li>
+        <li>🌐 Web Interface: Flask + HTML/JS + REST API</li>
+        <li>📊 Output: Similarity score + binary match decision</li>
       </ul>
-      <a href="https://github.com/Shark-Bot-X/Fast-API-Deployment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Fast-API-Deployment" /></a>
+      <a href="https://github.com/Shark-Bot-X/Fingerprint-verification-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Fingerprint-verification-system" /></a>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/Shark-Bot-X/Todo-Kotlin-App">Kotlin To-Do App</a></h3>
@@ -48,6 +50,17 @@ Profile README for Shark-Bot-X
       <a href="https://github.com/Shark-Bot-X/Todo-Kotlin-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Todo-Kotlin-App" /></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/Shark-Bot-X/Fast-API-Deployment">FastAPI Deployment</a></h3>
+      <p>Production-ready FastAPI app setup with Docker and CI/CD.</p>
+      <ul>
+        <li>✨ Automated deployment pipeline</li>
+        <li>🧪 Tech: Python, FastAPI, Docker</li>
+      </ul>
+      <a href="https://github.com/Shark-Bot-X/Fast-API-Deployment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shark-Bot-X&repo=Fast-API-Deployment" /></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -55,7 +68,7 @@ Profile README for Shark-Bot-X
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nextjs,nodejs,express,tailwind,html,css,fastapi,flask,postgres,mysql,redis,mongodb,git,github,docker,linux,aws,gcp,vscode,figma&perline=13" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,fastapi,flask,mysql,git,github,docker,vscode,figma&perline=13" />
 </p>
 
 ---
@@ -75,8 +88,9 @@ Profile README for Shark-Bot-X
 ## 🐍 Contribution Snake (animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shark-Bot-X/Shark-Bot-X/output/snake.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/Shark-Bot-X/Shark-Bot-X/output/github-snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
@@ -91,9 +105,8 @@ Profile README for Shark-Bot-X
 ## 📬 Connect With Me
 
 * 🌐 Portfolio: coming soon 🚧  
-* 💼 LinkedIn: [linkedin.com/in/sneh-kansagara](https://www.linkedin.com/in/sneh-kansagara/)  
-* 🐦 X/Twitter: [x.com/snehkansagara](https://x.com/snehkansagara)  
-* ✉️ Email: snehkansagara7@gmail.com  
+* 💼 LinkedIn: [linkedin.com/in/sneh-kansagara](https://www.linkedin.com/in/sneh-kansagara-b61362312/)  
+* ✉️ Email: snehkansagara@gmail.com  
 
 ---
 
